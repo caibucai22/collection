@@ -70,16 +70,16 @@
 
 ## 编程项目
 |项目名/描述|所在仓库|简单介绍|
-|------|-------|
+|------|-------|--------|
 |建造你的xx|[danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x)|建造各种硬核的东西，操作系统，编译器...|
 |电商系统|[macrozheng/mall](https://github.com/macrozheng/mall)|mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现|
-|一个商城小程序|[codery/LearnMiniProgram](https://github.com/coderwhy/LearnMiniProgram)|
-|简单个人博客开发|[MarkerHub/vueblog](https://github.com/MarkerHub/vueblog)|
-|C# 文件管理系统|[files-community/Files](https://github.com/files-community/Files)|
+|一个商城小程序|[codery/LearnMiniProgram](https://github.com/coderwhy/LearnMiniProgram)||
+|简单个人博客开发|[MarkerHub/vueblog](https://github.com/MarkerHub/vueblog)|基于vue 前后端分离的个人博客系统|
+|C# 文件管理系统|[files-community/Files](https://github.com/files-community/Files)|一个简约风格的文件管理系统|
 
 ### 前端
 |名称/描述|所在仓库|简单介绍|
-|----|----|-----|-------|
+|----|----|-----|
 |Canvas相关的各种小项目合集|[bxm0927/canvas-special](https://github.com/bxm0927/canvas-special)|:octocat:👽🌟超多经典 Canvas 实例，动态离子背景、炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等。|
 |50个前端小案例|[bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)|50+ mini web projects using HTML, CSS & JS|
 
