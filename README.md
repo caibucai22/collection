@@ -15,6 +15,7 @@
 ## 电子书等资源
 |类型|所在仓库|
 |-----|------|
+|公认的具有影响力cs书籍|[influential-cs-books](https://github.com/cs-books/influential-cs-books)|
 |计算机编程类中文书籍|[justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)|
 |经典编程书籍大全|[imarvinle/awesome-cs-books](https://github.com/imarvinle/awesome-cs-books)|
 |Java 程序员常读书单整理|[itwanger/JavaBooks](https://github.com/itwanger/JavaBooks)|
@@ -48,23 +49,48 @@
 |-----|------|
 |SpringBoot基础教程|[yizhiwazi/springboot-socks](https://github.com/yizhiwazi/springboot-socks)|
 |SpringALL所有|[wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll)|
+|Spring-boot-demo 集成各种框架| [spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) |
 
 
 
+## 语言相关
 
-## Java专属
+
+### Java
 |名称/介绍|所在仓库|
 |-----|------|
 |一个Java工具包|[dromara/hutool](https://github.com/dromara/hutool)|
 |使用java实现设计模式|[iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)|
 |互联网Java工程师进阶|[doocs/advanced-java](https://github.com/doocs/advanced-java)|
+|||
 
+### JavaScript
 
+|名称/介绍|所在仓库|
+|-----|------|
+|一行高效的js代码|[1loc](https://github.com/phuoc-ng/1loc)|
+|《TypeScript Deep Dive》 的中文翻译版|[typescript-book-chinese
+](https://github.com/jkchao/typescript-book-chinese)|
+
+### Python
+|名称/介绍|所在仓库|
+|-----|------|
+|Python基础入门（高效）|[30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)|
+|使用pytorch完成的各种项目|[Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)|
+|数据分析项目集合（很硬核）|[bigdata_analyse](https://github.com/TurboWay/bigdata_analyse)|
+|使用python实现数学动画|[Manim](https://www.manim.community/)|
+
+### Go
+|名称/介绍|所在仓库|
+|-----|------|
+|一个学习Go的仓库|[learngo](https://github.com/inancgumus/learngo)|
 
 ## Linux相关
+
 |特色|所在仓库|
 |-----|------|
 |Linux内核|[MintCN/linux-insides-zh](https://github.com/MintCN/linux-insides-zh)|
+|vim的使用|[byte-of-vim](https://github.com/swaroopch/byte-of-vim)|
 
 
 
@@ -95,6 +121,7 @@
 |资料|所在仓库|
 |-----|------|
 |精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，<br />搜索，推荐，广告系统架构及算法技术资料整理|[ AI_Tutorial](https://github.com/cbamls/AI_Tutorial)|
+|多类型数据标注工具|[label-studio](https://github.com/heartexlabs/label-studio)|
 
 
 
@@ -132,6 +159,8 @@
 |-----|------|
 |一键同步文章到多个平台|[Wechatsync](https://github.com/wechatsync/Wechatsync)|
 |提示个人生产力|[awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)|
+|JSON、XML等各种格式转换工具|[BaFi](https://mmalcek.github.io/bafi/)|
+|Mac上的一个好用笔记|[FSNotes](https://fsnot.es/)|
 
 
 
@@ -143,4 +172,6 @@
 |中国独立开发者项目列表 |[chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)|
 
 
+
+## 待分类
 
