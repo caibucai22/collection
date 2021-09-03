@@ -1,7 +1,7 @@
 # collection
 对GitHub上发现收集的好用资源进行分类整理，持续更新....
 
-(如果发现好的资源欢迎分享推荐，整理不易，欢迎star)
+(如果发现好的内容欢迎分享推荐，整理不易，欢迎star)
 
 
 ## 计算机课程
@@ -40,6 +40,7 @@
 |大厂前端面试|[Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)|
 |大厂面经，面试题|[shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question)|
 |Java学习+面试指南|[Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)|
+|Java面试+Java学习指南(敖丙)|[JavaFamily](https://github.com/AobingJava/JavaFamily)|
 
 
 
@@ -150,6 +151,7 @@
 |Clash_for_windows|[Fndroid/Clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg)|
 |v2ray|[2dust/v2rayN](https://github.com/2dust/v2rayN)|
 |v2ray路由规则|[Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat)|
+|一键安装工具科学上网|[ProxySU](https://github.com/proxysu/ProxySU)|
 |内网穿透|[lazy-luo/smarGate](https://github.com/lazy-luo/smarGate)|
 
 
