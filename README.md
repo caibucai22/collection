@@ -9,6 +9,7 @@
 |-----|------|
 |一套计算机速成课|[1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese)|
 |OSSU的一套计算机科学课程|[ossu/computer-science](https://github.com/ossu/computer-science)|
+|一位开发者整理的图形学资料，<br />包含各大高校课程、书籍、教程、文章、开源项目、网站等内容|[fun-with-computer-graphics](https://github.com/zheng95z/fun-with-computer-graphics)|
 
 
 
@@ -100,6 +101,7 @@
 |项目名/描述|所在仓库|简单介绍|
 |-----|------|--------|
 |建造你的xx|[danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x)|建造各种硬核的东西，操作系统，编译器...|
+|免费项目课程|[ free-project-course](https://github.com/resumejob/free-project-course)|整理和搜集网络免费的项目实战课程，包括 Java 项目实战，Python 项目实战，C++ 项目实战等|
 |电商系统|[macrozheng/mall](https://github.com/macrozheng/mall)|mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现|
 |一个商城小程序|[codery/LearnMiniProgram](https://github.com/coderwhy/LearnMiniProgram)||
 |简单个人博客开发|[MarkerHub/vueblog](https://github.com/MarkerHub/vueblog)|基于vue 前后端分离的个人博客系统|
@@ -115,6 +117,7 @@
 |Canvas相关的各种小项目合集|[bxm0927/canvas-special](https://github.com/bxm0927/canvas-special)|:octocat:👽🌟超多经典 Canvas 实例，动态离子背景、炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等。|
 |50个前端小案例|[bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)|50+ mini web projects using HTML, CSS & JS|
 |仅使用html、css、JavaScript前端小项目合集|[vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) ||
+|CSS对应等级可以练习项目和学习|[CSS Animations: A Complete Guide in 7 Levels of Difficulty](https://medium.com/techtofreedom/css-animations-a-complete-guide-in-7-levels-of-difficulty-9a3131f382c8) ||
 
 
 
@@ -163,6 +166,9 @@
 |提示个人生产力|[awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)|
 |JSON、XML等各种格式转换工具|[BaFi](https://mmalcek.github.io/bafi/)|
 |Mac上的一个好用笔记|[FSNotes](https://fsnot.es/)|
+|一个数据，文件加密（可基于非对称加密算法，快速给私密文件进行加密）|[age](https://github.com/FiloSottile/age)|
+|正则表达式整理|[ any-rule](https://github.com/any86/any-rule)|
+|为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件|[ qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner)|
 
 
 
@@ -172,8 +178,13 @@
 |-----|------|
 |前端|[FrontEndGitHub/FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub)|
 |中国独立开发者项目列表 |[chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)|
+| 提升个人学习探索能力:star2::star: |[ teach-yourself-research](https://github.com/zheng95z/teach-yourself-research)|
 
 
 
 ## 待分类
+
+|名称/描述|仓库地址|
+|-----|------|
+|一款专为 #Kubernetes 设计的开源管理界面。<br />具备多集群管理、权限管理、监控套件、日志套件等丰富功能|[Kuboard](https://github.com/eip-work/kuboard-press)|
 
