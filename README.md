@@ -30,7 +30,7 @@
 |名称/介绍|所在仓库|
 |-----|------|
 |令狐冲算法小抄|[ninechapter-algorithm/linghu-algorithm-templete](https://github.com/ninechapter-algorithm/linghu-algorithm-templete)|
-||[youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master)|
+|代码随想录|[youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master)|
 |labuladong刷算法|[labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm)|
 
 
@@ -71,8 +71,7 @@
 |名称/介绍|所在仓库|
 |-----|------|
 |一行高效的js代码|[1loc](https://github.com/phuoc-ng/1loc)|
-|《TypeScript Deep Dive》 的中文翻译版|[typescript-book-chinese
-](https://github.com/jkchao/typescript-book-chinese)|
+|《TypeScript Deep Dive》的中文翻译版|[typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese)|
 
 ### Python
 |名称/介绍|所在仓库|
