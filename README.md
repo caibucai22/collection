@@ -10,6 +10,7 @@
 |一套计算机速成课|[1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese)|
 |OSSU的一套计算机科学课程|[ossu/computer-science](https://github.com/ossu/computer-science)|
 |一位开发者整理的图形学资料，<br />包含各大高校课程、书籍、教程、文章、开源项目、网站等内容|[fun-with-computer-graphics](https://github.com/zheng95z/fun-with-computer-graphics)|
+|中山大学开源项目，从零开始编写操作系统|[逸仙 OS 简明教程](https://github.com/YatSenOS/YatSenOS-Tutorial-Volume-1)|
 
 
 
@@ -42,6 +43,7 @@
 |大厂面经，面试题|[shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question)|
 |Java学习+面试指南|[Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)|
 |Java面试+Java学习指南(敖丙)|[JavaFamily](https://github.com/AobingJava/JavaFamily)|
+|一本开源的技术书籍，在前端工程师实践经验和学习心得方面的总结。|[带你入门前端工程](https://woai3c.gitee.io/introduction-to-front-end-engineering/?)<br />[githhub仓库](https://github.com/woai3c/introduction-to-front-end-engineering)|
 
 
 
@@ -80,6 +82,8 @@
 |使用pytorch完成的各种项目|[Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)|
 |数据分析项目集合（很硬核）|[bigdata_analyse](https://github.com/TurboWay/bigdata_analyse)|
 |使用python实现数学动画|[Manim](https://www.manim.community/)|
+|Scrapy抓取网页|https://www.babbling.fish/scraping-for-a-job/?|
+|FastAPI 从头开始构建 API|https://levelup.gitconnected.com/build-an-api-with-a-database-from-scratch-9b9a39d7739d|
 
 ### Go
 |名称/介绍|所在仓库|
@@ -117,6 +121,29 @@
 |50个前端小案例|[bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)|50+ mini web projects using HTML, CSS & JS|
 |仅使用html、css、JavaScript前端小项目合集|[vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) ||
 |CSS对应等级可以练习项目和学习|[CSS Animations: A Complete Guide in 7 Levels of Difficulty](https://medium.com/techtofreedom/css-animations-a-complete-guide-in-7-levels-of-difficulty-9a3131f382c8) ||
+|前端UI组件|[Storybook: UI component explorer for frontend developers](https://storybook.js.org/?) ||
+|| ||
+
+
+
+### Python
+
+| 名称/描述            | 所在仓库                                                     | 简单介绍                                                     |
+| -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| python-mini-projects | **[python-mini-projects](https://github.com/Python-World/python-mini-projects)** | 里面收集了 100 多个小型 Python 项目，其中包括随机密码生成器、图片批量下载脚本、网站内容抓取、聊天机器人等项目，适合新手用于日常练习 |
+|                      |                                                              |                                                              |
+
+
+
+## 插件
+
+| 类别    | 名称 |介绍                                               | 地址                                                |
+| --------- | -------------------------------------------------- | --------------------------------------------------- | --------- |
+| Python Pytorch | S3 Plugin | 高性能数据集访问库，可高效访问S3 buckets上的数据集           |https://github.com/aws/amazon-s3-plugin-for-pytorch|
+| edge/chrome |           | 1、[Open in Colab](https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo)：在Colab中打开当前Github项目 2、[EquatIO - Math made digital](https://chrome.google.com/webstore/detail/equatio-math-made-digital/hjngolefdpdnooamgdldlkjgmdcmcjnc/related?hl=en-US)：公式编辑、手写识别、LaTeX编辑器等(免费试用30天)  3、[Instant Data Scraper](https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah)：从网页提取数据并导出为Excel或CSV文件 4、[Arxiv Vanity Plugin](https://chrome.google.com/webstore/detail/arxiv-vanity-plugin/jfnlkegibnoaagfdabjkchhocdhnoofk)：直接打开arXiv论文的Arxiv Vanity网页浏览页面  5、[CatalyzeX](https://chrome.google.com/webstore/detail/aiml-papers-with-code-eve/aikkeehnlfpamidigaffhfmgbkdeheil)：直接获取 [#机器学习](tg://search_hashtag?hashtag=机器学习) 论文源码链接*edited*4.9Ktieliu1998, 23:39 ||
+| VSCode插件 | Code Tour | 由微软技术团队开源。其主要功能，是能用于录制与回放项目代码浏览过程。 在浏览代码的过程中，可用该插件插入浏览步骤、文本注释，并且还能设置跳转的代码区块，嵌入能运行的命令行等操作。 安装 Code Tour 后，便可应用到日常的源码阅读、代码审查、团队新手指引项目、文档教程等场景。 |[github地址](http://github.com/microsoft/codetour)|
+
+
 
 
 
@@ -125,6 +152,17 @@
 |-----|------|
 |精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，<br />搜索，推荐，广告系统架构及算法技术资料整理|[ AI_Tutorial](https://github.com/cbamls/AI_Tutorial)|
 |多类型数据标注工具|[label-studio](https://github.com/heartexlabs/label-studio)|
+|100+有价值的机器学习Github库|https://www.theinsaneapp.com/2021/09/best-github-repository-for-machine-learning.html?|
+|理论基础知识<br />里面涵盖了数学、数据预处理、机器学习、深度学习、自然语言处理等多个技术领域的面试知识|[Reflection Summary](https://github.com/sladesha/Reflection_Summary)|
+|图像文本数据集|[image-text-pair](https://laion.ai/laion-400-open-dataset/?)|
+
+
+
+## 源码系列
+
+| 名称                | 介绍                                                         | 仓库地址                                                     |
+| ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 图解 React 源码系列 | 主要包含 React 基础概念、运行核心、数据管理、交互、高频算法等内容 | [react-illustration-series](https://github.com/7kms/react-illustration-series) |
 
 
 
@@ -168,6 +206,8 @@
 |一个数据，文件加密（可基于非对称加密算法，快速给私密文件进行加密）|[age](https://github.com/FiloSottile/age)|
 |正则表达式整理|[ any-rule](https://github.com/any86/any-rule)|
 |为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件|[ qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner)|
+|一款开源的微信消息导出工具，可将聊天记录导出成 HTML 文件、支持文本、语音、图片、视频、消息等资源。|[wechat-export](https://github.com/luin/wechat-export)|
+|一款可在终端运行的色彩查询工具提供了不少简洁优雅的色系供开发者选择，其数据引用自日本传统色系1.1Ktieliu1998, 15:29|[iroiro](https://github.com/antfu/iroiro)|
 
 
 
@@ -179,6 +219,12 @@
 |中国独立开发者项目列表 |[chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)|
 | 提升个人学习探索能力:star2::star: |[ teach-yourself-research](https://github.com/zheng95z/teach-yourself-research)|
 
+## 网站收录
+
+| 网站名称 | 介绍           | URL               |
+| -------- | -------------- | ----------------- |
+| RaveDJ   | AI音乐混搭制作 | https://rave.dj/? |
+
 
 
 ## 待分类
@@ -186,4 +232,11 @@
 |名称/描述|仓库地址|
 |-----|------|
 |一款专为 #Kubernetes 设计的开源管理界面。<br />具备多集群管理、权限管理、监控套件、日志套件等丰富功能|[Kuboard](https://github.com/eip-work/kuboard-press)|
+|浏览器中一些较为冷门，却异常实用的接口，如商品支付、社交网络分享、消息推送、视频画中画、剪切板、AR 预览、用户身份凭证管理等多种接口。 如果你想给自己的 Web 项目加点新功能，或许可以在上面找找灵感|[browser-2020](https://github.com/luruke/browser-2020)|
+|官方在 GitHub 开源的一份《[Docker 入门教程](https://github.com/docker/getting-started)》<br />主要讲解如何创建、运行并删除容器、数据持久化处理、多容器支持、Compose 的使用等内容|[Docker 入门教程](https://github.com/docker/getting-started)|
+|滴滴开源的一款流程可视化的前端框架<br />主要提供了一系列流程图交互、编辑所必需的功能和简单灵活的节点自定义、插件等拓展机制，方便开发者快速在业务系统内满足类流程图的需求|[LogicFlow](http://logic-flow.org/?)|
+|web开发的好用17个网站|https://javascript.plainenglish.io/17-killer-websites-for-web-developers-13e1e30345b8|
+|一个前端动画设计库theate.js可用于创建、设计酷炫丝滑的 Web 动画交互效果。开发者可通过编程或 Web 交互式组件来完成工作|[Theatre.js](https://www.theatrejs.com/)<br />[github地址](https://github.com/AriaMinaei/theatre)|
+|腾讯开发人员开源的代码安全指南，包含多个编程语言版本|[代码安全指南](https://github.com/Tencent/secguide)|
+|科研/学术写作资源集|[《The Elements of Style (4th edition)》by Oliver Strunk ](http://www.jlakes.org/ch/web/The-elements-of-style.pdf)[Advice Collection](https://taoxie.cs.illinois.edu/advice.htm)[Writing & Research resources](https://vision.sjtu.edu.cn/writing.html)|
 
