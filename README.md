@@ -92,9 +92,11 @@
 
 
 ### JavaScript
-|-----|------|
+
+| 名称/介绍 | 所在仓库                                                     |
+| --------- | ------------------------------------------------------------ |
 |一行高效的js代码|[1loc](https://github.com/phuoc-ng/1loc)|
-|《TypeScript Deep Dive》的中文翻译版|[typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese)|
+|《TypeScript Deep Dive》的中文翻译版|[typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese)| |
 
 ### Python
 |名称/介绍|所在仓库|
