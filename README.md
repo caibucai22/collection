@@ -1,3 +1,9 @@
+#### 更新情况
+
+- 2022-04-17
+  - 添加算法大分类、机器学习下面的NLP、图片网站、一些其他
+
+
 # collection
 
 对GitHub上发现收集的好用资源进行分类整理，持续更新....
@@ -19,6 +25,7 @@
 
 |课程名|简单描述|所在仓库|
 |-----|------|------|
+||||
 
 ### 操作系统
 |课程名|简单描述|所在仓库|
@@ -38,11 +45,12 @@
 
 
 ### 数据库
-|课程名|简单描述|所在仓库|
+|      |      |      |
 |-----|------|------|
-
+|      |||
 
 ### 机器学习
+
 |资料|所在仓库|
 |-----|------|
 |精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，<br />搜索，推荐，广告系统架构及算法技术资料整理|[ AI_Tutorial](https://github.com/cbamls/AI_Tutorial)|
@@ -58,6 +66,17 @@
 |课程名|简单描述|所在仓库|
 |-----|------|------|
 |一位开发者整理的图形学资料，<br />包含各大高校课程、书籍、教程、文章、开源项目、网站等内容||[fun-with-computer-graphics](https://github.com/zheng95z/fun-with-computer-graphics)|
+
+### 其他课程
+
+- [数据可视化（北大老师袁晓如）](http://www.chinesemooc.org/mooc/5033)
+
+
+
+## 算法
+
+- [路径规划算法可视化](https://github.com/zhm-real/PathPlanning)
+- [js实现算法仓库](https://the-algorithms.com/language/javascript)
 
 
 
@@ -111,6 +130,8 @@
 |名称/介绍|所在仓库|
 |-----|------|
 |一个学习Go的仓库|[learngo](https://github.com/inancgumus/learngo)|
+
+
 ## 实践项目
 
 
@@ -127,12 +148,23 @@
 ### 后端
 |名称/描述|所在仓库|简单介绍|
 |-----|------|--------|
+|数据库学习课程|https://github.com/dunwu/db-tutorial|里面含有 MySQL、NoSQL、MongoDB、Elasticsearch、Redis 等学习教程，其中 MySQL 与 Redis 提供了思维导图对学习重点内容进行梳理|
 
 ### 测试
 |名称/描述|所在仓库|简单介绍|
 |-----|------|--------|
 
 ### 机器学习
+
+### 百度飞桨
+
+- [基于飞桨PaddlePaddle的语音方向的开源模型库，用于语音和音频中的各种关键任务的开发，包含大量基于深度学习前沿和有影响力的模型](https://github.com/PaddlePaddle/PaddleSpeech)
+
+### NLP
+
+- [涵盖68个领域、共计916万词的专业词典知识库，可用于文本分类、知识增强、领域词汇库扩充等自然语言处理应用。](https://github.com/liuhuanyong/DomainWordsDict)
+- [自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等](https://github.com/DengBoCong/nlp-paper)
+
 |名称/描述|所在仓库|简单介绍|
 |-----|------|--------|
 
@@ -140,14 +172,18 @@
 |名称/描述|所在仓库|简单介绍|
 |-----|------|--------|
 
-
 ### Python
+
+- [可快速搭建一款可交互式的「地理空间」应用。 该框架提供了一整套完整工具包，让你可以轻松打通数据、算法、可视化 UI 等模块，构建一款交互式应用](https://github.com/greppo-io/greppo)
+
 | 名称/描述|所在仓库|简单介绍|
 | ----- | ------|--------|
 | python-mini-projects | [python-mini-projects](https://github.com/Python-World/python-mini-projects) | 里面收集了 100 多个小型 Python 项目，其中包括随机密码生成器、图片批量下载脚本、网站内容抓取、聊天机器人等项目，适合新手用于日常练习 |
 | Python Pytorch S3 Plugin|https://github.com/aws/amazon-s3-plugin-for-pytorch|高性能数据集访问库，可高效访问S3 buckets上的数据集|
 
 ## 求职与面试
+
+- [个人简历](https://github.com/smaranjitghose/awesome-portfolio-websites)
 
 ### 算法刷题篇
 |名称/介绍|所在仓库|
@@ -166,9 +202,21 @@
 |一本开源的技术书籍，在前端工程师实践经验和学习心得方面的总结。|[带你入门前端工程](https://woai3c.gitee.io/introduction-to-front-end-engineering/?)<br />[githhub仓库](https://github.com/woai3c/introduction-to-front-end-engineering)|
 
 ## 建站
+
+- [一个不错的博客系统springboot+vue实现](https://github.com/Naccl/NBlog)
+- [一个富文本编辑器](https://github.com/papyrs/stylo)
+
 |项目名/描述|所在仓库|
 |-----|------|
 |发现导航，一个非常强大的静态导航网站(支持SEO)|[xjh22222228/nav](https://github.com/xjh22222228/nav)|
+
+
+
+### 图片素材网站
+
+- [像素风图像素材网站](https://dotown.maeda-design-room.net/)
+- [生成山水画图片网站](http://shan-shui-inf.lingdong.works/)
+- [游戏界面的截图](https://www.gameuidatabase.com/index.php)
 
 
 
@@ -198,6 +246,7 @@
 |-----|------|
 |好像是一种可视化编程工具|[nodes-io/nodes-io](https://github.com/nodes-io/nodes-io)|
 |一个签到打卡墙|[yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster)|
+|一个工作流程管理？？？|https://cascade.page/|
 ### 去外面看看
 |工具|所在仓库|
 |-----|------|
@@ -236,3 +285,8 @@
 | 一个前端动画设计库theate.js可用于创建、设计酷炫丝滑的 Web 动画交互效果。开发者可通过编程或 Web 交互式组件来完成工作 | [Theatre.js](https://www.theatrejs.com/)<br />[github地址](https://github.com/AriaMinaei/theatre) |
 | 腾讯开发人员开源的代码安全指南，包含多个编程语言版本         | [代码安全指南](https://github.com/Tencent/secguide)          |
 | 科研/学术写作资源集                                          | [《The Elements of Style (4th edition)》by Oliver Strunk ](http://www.jlakes.org/ch/web/The-elements-of-style.pdf)[Advice Collection](https://taoxie.cs.illinois.edu/advice.htm)[Writing & Research resources](https://vision.sjtu.edu.cn/writing.html) |
+| 开发人员有用的定律、理论、原则和模式                         | https://github.com/nusr/hacker-laws-zh                       |
+| 搭建可视化拖曳平台                                           | https://github.com/H5-Dooring/dooringx                       |
+| 寻找GitHub上可代替的项目                                     | https://www.libhunt.com/site/find_alternatives               |
+| Awesome Geo Rust：用 #Rust 编写的地理空间软件、库、工具、资源大列表 | https://github.com/pka/awesome-georust                       |
+
