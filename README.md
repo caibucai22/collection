@@ -1,12 +1,26 @@
-#### 更新情况
+<strong>更新情况</strong>
 
 - 2022-04-17
   - 添加算法大分类、机器学习下面的NLP、图片网站、一些其他
+- 2023-04-01
+  1. 增加目录，优化结构
+  2. 添加ChatGPT内容收录
+  3. 添加 好用指数 评价 ，评价格式： 星星（满星5星）+一段文字 ，欢迎大家来评
 
 
-# collection
+
+
+
+<h1 style="text-align:center;">Collection</h1>
+
+
+# 
 
 对GitHub上发现收集的好用资源进行分类整理，持续更新....
+
+
+
+[TOC]
 
 
 
@@ -15,7 +29,7 @@
 
 
 ### 计算机基础
-|课程名|简单描述|所在仓库|
+|课程名|描述|仓库|
 |-----|------|------|
 |一套计算机速成课||[1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese)|
 |OSSU的一套计算机科学课程||[ossu/computer-science](https://github.com/ossu/computer-science)|
@@ -23,35 +37,47 @@
 
 ### 数据结构
 
-|课程名|简单描述|所在仓库|
+|课程名|描述|仓库|
 |-----|------|------|
 ||||
 
 ### 操作系统
-|课程名|简单描述|所在仓库|
+|课程名|描述|仓库|
 |-----|------|------|
 |中山大学开源项目，从零开始编写操作系统||[逸仙 OS 简明教程](https://github.com/YatSenOS/YatSenOS-Tutorial-Volume-1)|
 |Linux内核||[MintCN/linux-insides-zh](https://github.com/MintCN/linux-insides-zh)|
 |vim的使用||[byte-of-vim](https://github.com/swaroopch/byte-of-vim)|
 
 ### 计算机网络
-|课程名|简单描述|所在仓库|
+|课程名|描述|仓库|
 |-----|------|------|
 
 
 ### 计算机组成原理
-|课程名|简单描述|所在仓库|
+|课程名|描述|仓库|
 |-----|------|------|
 
 
 ### 数据库
-|      |      |      |
+| 课程 | 描述 | 仓库 |
 |-----|------|------|
 |      |||
 
-### 机器学习
 
-|资料|所在仓库|
+
+### 计算机图形学
+
+| 课程名                                                       | 描述 | 仓库                                                         |
+| ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
+| 一位开发者整理的图形学资料，<br />包含各大高校课程、书籍、教程、文章、开源项目、网站等内容 |      | [fun-with-computer-graphics](https://github.com/zheng95z/fun-with-computer-graphics) |
+
+
+
+
+
+## 机器学习
+
+|资料|仓库|
 |-----|------|
 |精华机器学习，NLP，图像识别， 深度学习等人工智能领域学习资料，<br />搜索，推荐，广告系统架构及算法技术资料整理|[ AI_Tutorial](https://github.com/cbamls/AI_Tutorial)|
 |多类型数据标注工具|[label-studio](https://github.com/heartexlabs/label-studio)|
@@ -61,11 +87,31 @@
 
 
 
-### 计算机图形学
+### NLP
 
-|课程名|简单描述|所在仓库|
-|-----|------|------|
-|一位开发者整理的图形学资料，<br />包含各大高校课程、书籍、教程、文章、开源项目、网站等内容||[fun-with-computer-graphics](https://github.com/zheng95z/fun-with-computer-graphics)|
+- [涵盖68个领域、共计916万词的专业词典知识库，可用于文本分类、知识增强、领域词汇库扩充等自然语言处理应用。](https://github.com/liuhuanyong/DomainWordsDict)
+- [自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等](https://github.com/DengBoCong/nlp-paper)
+
+
+
+### 百度飞桨
+
+- [基于飞桨PaddlePaddle的语音方向的开源模型库，用于语音和音频中的各种关键任务的开发，包含大量基于深度学习前沿和有影响力的模型](https://github.com/PaddlePaddle/PaddleSpeech)
+
+
+
+### ChatGPT相关
+
+
+
+| 类型        | 介绍                                                         | 仓库                                                         |
+| ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ChatGPT插件 | 学术过程中的 文档翻译、文档润色、工程解析等                  | [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) |
+| ChatGPT检测 | ChatGPT 生成内容检测，可用来 对 文本（论文、新闻稿等）是否使用GPT 进行检测 | [chatgpt-comparison-detection](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection) |
+
+
+
+
 
 ### 其他课程
 
@@ -82,7 +128,7 @@
 
 ## 计算机书籍
 
-|类型|所在仓库|
+|类型|仓库|
 |-----|------|
 |公认的具有影响力cs书籍|[influential-cs-books](https://github.com/cs-books/influential-cs-books)|
 |计算机编程类中文书籍|[justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)|
@@ -95,7 +141,7 @@
 ## 语言提升
 
 ### Java
-|名称/介绍|所在仓库|
+|名称/介绍|仓库|
 |-----|------|
 |一个Java工具包|[dromara/hutool](https://github.com/dromara/hutool)|
 |使用java实现设计模式|[iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)|
@@ -112,12 +158,12 @@
 
 ### JavaScript
 
-|名称/介绍|所在仓库|
+|名称/介绍|仓库|
 |-----|------|
-|一行高效的js代码|[1loc](https://github.com/phuoc-ng/1loc)| |《TypeScript Deep Dive》的中文翻译版|[typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese)| |
+|一行高效的js代码|[1loc](https://github.com/phuoc-ng/1loc)|
 
 ### Python
-|名称/介绍|所在仓库|
+|名称/介绍|仓库|
 |-----|------|
 |Python基础入门（高效）|[30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)|
 |使用pytorch完成的各种项目|[Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)|
@@ -127,7 +173,7 @@
 |FastAPI 从头开始构建 API|https://levelup.gitconnected.com/build-an-api-with-a-database-from-scratch-9b9a39d7739d|
 
 ### Go
-|名称/介绍|所在仓库|
+|名称/介绍|仓库|
 |-----|------|
 |一个学习Go的仓库|[learngo](https://github.com/inancgumus/learngo)|
 
@@ -137,7 +183,7 @@
 
 
 ### 前端
-|名称/描述|所在仓库|简单介绍|
+|名称/描述|仓库|简单介绍|
 |-----|------|--------|
 |Canvas相关的各种小项目合集|[bxm0927/canvas-special](https://github.com/bxm0927/canvas-special)|:octocat:👽🌟超多经典 Canvas 实例，动态离子背景、炫彩小球、贪吃蛇、坦克大战、是男人就下100层、心形文字等。|
 |50个前端小案例|[bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days)|50+ mini web projects using HTML, CSS & JS|
@@ -146,37 +192,23 @@
 |前端UI组件|[Storybook: UI component explorer for frontend developers](https://storybook.js.org/?) ||
 
 ### 后端
-|名称/描述|所在仓库|简单介绍|
+|名称/描述|仓库|简单介绍|
 |-----|------|--------|
 |数据库学习课程|https://github.com/dunwu/db-tutorial|里面含有 MySQL、NoSQL、MongoDB、Elasticsearch、Redis 等学习教程，其中 MySQL 与 Redis 提供了思维导图对学习重点内容进行梳理|
 
 ### 测试
-|名称/描述|所在仓库|简单介绍|
-|-----|------|--------|
-
-### 机器学习
-
-### 百度飞桨
-
-- [基于飞桨PaddlePaddle的语音方向的开源模型库，用于语音和音频中的各种关键任务的开发，包含大量基于深度学习前沿和有影响力的模型](https://github.com/PaddlePaddle/PaddleSpeech)
-
-### NLP
-
-- [涵盖68个领域、共计916万词的专业词典知识库，可用于文本分类、知识增强、领域词汇库扩充等自然语言处理应用。](https://github.com/liuhuanyong/DomainWordsDict)
-- [自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等](https://github.com/DengBoCong/nlp-paper)
-
-|名称/描述|所在仓库|简单介绍|
+|名称/描述|仓库|简单介绍|
 |-----|------|--------|
 
 ### 硬核
-|名称/描述|所在仓库|简单介绍|
+|名称/描述|仓库|简单介绍|
 |-----|------|--------|
 
 ### Python
 
 - [可快速搭建一款可交互式的「地理空间」应用。 该框架提供了一整套完整工具包，让你可以轻松打通数据、算法、可视化 UI 等模块，构建一款交互式应用](https://github.com/greppo-io/greppo)
 
-| 名称/描述|所在仓库|简单介绍|
+| 名称/描述|仓库|简单介绍|
 | ----- | ------|--------|
 | python-mini-projects | [python-mini-projects](https://github.com/Python-World/python-mini-projects) | 里面收集了 100 多个小型 Python 项目，其中包括随机密码生成器、图片批量下载脚本、网站内容抓取、聊天机器人等项目，适合新手用于日常练习 |
 | Python Pytorch S3 Plugin|https://github.com/aws/amazon-s3-plugin-for-pytorch|高性能数据集访问库，可高效访问S3 buckets上的数据集|
@@ -186,14 +218,14 @@
 - [个人简历](https://github.com/smaranjitghose/awesome-portfolio-websites)
 
 ### 算法刷题篇
-|名称/介绍|所在仓库|
+|名称/介绍|仓库|
 |-----|------|
 |令狐冲算法小抄|[ninechapter-algorithm/linghu-algorithm-templete](https://github.com/ninechapter-algorithm/linghu-algorithm-templete)|
 |代码随想录|[youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master)|
 |labuladong刷算法|[labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm)|
 
 ### 面经篇
-|名称/介绍|所在仓库|
+|名称/介绍|仓库|
 |-----|------|
 |大厂前端面试|[Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)|
 |大厂面经，面试题|[shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question)|
@@ -206,7 +238,7 @@
 - [一个不错的博客系统springboot+vue实现](https://github.com/Naccl/NBlog)
 - [一个富文本编辑器](https://github.com/papyrs/stylo)
 
-|项目名/描述|所在仓库|
+|项目名/描述|仓库|
 |-----|------|
 |发现导航，一个非常强大的静态导航网站(支持SEO)|[xjh22222228/nav](https://github.com/xjh22222228/nav)|
 
@@ -223,17 +255,17 @@
 ## 提升生产力
 
 ### 好用工具
-|工具名/描述|所在仓库|
-|-----|------|
-|一键同步文章到多个平台|[Wechatsync](https://github.com/wechatsync/Wechatsync)|
-|提示个人生产力|[awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)|
-|JSON、XML等各种格式转换工具|[BaFi](https://mmalcek.github.io/bafi/)|
-|Mac上的一个好用笔记|[FSNotes](https://fsnot.es/)|
-|一个数据，文件加密（可基于非对称加密算法，快速给私密文件进行加密）|[age](https://github.com/FiloSottile/age)|
-|正则表达式整理|[ any-rule](https://github.com/any86/any-rule)|
-|为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件|[ qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner)|
-|一款开源的微信消息导出工具，可将聊天记录导出成 HTML 文件、支持文本、语音、图片、视频、消息等资源。|[wechat-export](https://github.com/luin/wechat-export)|
-|一款可在终端运行的色彩查询工具提供了不少简洁优雅的色系供开发者选择，其数据引用自日本传统色系1.1Ktieliu1998, 15:29|[iroiro](https://github.com/antfu/iroiro)|
+|工具名/描述|仓库|好用指数|
+|-----|------|------|
+|一键同步文章到多个平台|[Wechatsync](https://github.com/wechatsync/Wechatsync)|:star::star::star:|
+|提示个人生产力|[awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)||
+|JSON、XML等各种格式转换工具|[BaFi](https://mmalcek.github.io/bafi/)||
+|Mac上的一个好用笔记|[FSNotes](https://fsnot.es/)||
+|一个数据，文件加密（可基于非对称加密算法，快速给私密文件进行加密）|[age](https://github.com/FiloSottile/age)||
+|正则表达式整理|[ any-rule](https://github.com/any86/any-rule)||
+|为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件|[ qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner)||
+|一款开源的微信消息导出工具，可将聊天记录导出成 HTML 文件、支持文本、语音、图片、视频、消息等资源。|[wechat-export](https://github.com/luin/wechat-export)||
+|一款可在终端运行的色彩查询工具提供了不少简洁优雅的色系供开发者选择，其数据引用自日本传统色系1.1Ktieliu1998, 15:29|[iroiro](https://github.com/antfu/iroiro)||
 ### 插件相关
 |类别|名称|介绍|地址|
 | -----|-------|-------|------|
@@ -242,13 +274,13 @@
 
 
 ## 奇奇怪怪
-|简介|所在仓库|
+|简介|仓库|
 |-----|------|
 |好像是一种可视化编程工具|[nodes-io/nodes-io](https://github.com/nodes-io/nodes-io)|
 |一个签到打卡墙|[yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster)|
 |一个工作流程管理？？？|https://cascade.page/|
 ### 去外面看看
-|工具|所在仓库|
+|工具|仓库|
 |-----|------|
 |一个翻墙合集仓库|[freefq/free](https://github.com/freefq/free)|
 |Clash_for_windows|[Fndroid/Clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg)|
