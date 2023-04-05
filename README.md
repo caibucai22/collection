@@ -120,10 +120,14 @@
 
 ### ChatGPT 相关
 
-| 类型         | 介绍                                                                        | 仓库                                                                                           |
-| ------------ | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| ChatGPT 插件 | 学术过程中的 文档翻译、文档润色、工程解析等                                 | [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic)                           |
-| ChatGPT 检测 | ChatGPT 生成内容检测，可用来 对 文本（论文、新闻稿等）是否使用 GPT 进行检测 | [chatgpt-comparison-detection](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection) |
+| 领域            | 介绍                                                         | 仓库                                                         |
+| --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 科研            | 学术过程中的 文档翻译、文档润色、工程解析等                  | [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic) |
+| 科研            | 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复   | [ChatPaper](https://github.com/kaixindelele/ChatPaper)       |
+| ChatGPT生成检测 | ChatGPT 生成内容检测，可用来 对 文本（论文、新闻稿等）是否使用 GPT 进行检测 | [chatgpt-comparison-detection](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection) |
+|                 |                                                              |                                                              |
+
+
 
 ### 其他课程
 
